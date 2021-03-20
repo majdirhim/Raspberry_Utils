@@ -30,3 +30,26 @@
 
 ``` import cv2 ```
 
+## Projects
+``` 
+$ git clone https://github.com/mlaweh/Raspberry_Utils/tree/main/opencv_rpi 
+``` 
+``` 
+$ cd  Raspberry_Utils/opencv_rpi/
+```
+* To run eye detection 
+```
+$ cd eye_detection
+```
+```
+$ python3 eye_detection.py
+```
+* To run Live Stream server
+```
+$ cd Live-Streaming-using-OpenCV-Flask
+```
+```
+$ python3 app.py
+```
+
+
