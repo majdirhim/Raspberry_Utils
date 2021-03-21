@@ -30,7 +30,7 @@
 
 ## Projects
 ``` 
-$ git clone https://github.com/mlaweh/Raspberry_Utils/tree/main/opencv_rpi 
+$ git clone https://github.com/mlaweh/Raspberry_Utils
 ``` 
 ``` 
 $ cd  Raspberry_Utils/opencv_rpi/
