@@ -6,8 +6,6 @@
 
 ```$ sudo apt install libqt4-test```
 
-```$ sudo apt-get install libcblas-dev```
-
 ```$ sudo apt-get install libhdf5-dev```
 
 ```$ sudo apt-get install libhdf5-serial-dev```
